@@ -14,5 +14,10 @@
 - Create a file with `.ts` extension.
 
     *example.ts*
+- After compilation, TypeScript will automatically create a JavaScript file:
+
+```
+ example.js
+```
 
 
