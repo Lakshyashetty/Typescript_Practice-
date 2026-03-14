@@ -3,7 +3,6 @@
 ## 📦 1. Steps to install TypeScript
 - Download and install **Node.js** from the official website:
   🔗 https://nodejs.org
-- [Install Node.js from the official website:]( https://nodejs.org) 
 - Open Command Prompt / VS Code Terminal.
 - Install TypeScript globally using npm:
 
@@ -37,6 +36,7 @@
 ```bash
      node filename.js
    ```
+- The output of your program will appear in the terminal.
 
 
 
