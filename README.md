@@ -38,5 +38,8 @@
    ```
 - The output of your program will appear in the terminal.
 
+--------------------------------
+![alt text](image.png)
+
 
 
