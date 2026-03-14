@@ -1,6 +1,8 @@
 # TypeScript Setup and Execution Guide
 
-## 1. Steps to install TypeScript
+## 📦 1. Steps to install TypeScript
+- Download and install **Node.js** from the official website:
+  🔗 https://nodejs.org
 - [Install Node.js from the official website:]( https://nodejs.org) 
 - Open Command Prompt / VS Code Terminal.
 - Install TypeScript globally using npm:
@@ -15,7 +17,7 @@
       tsc -v
    ```
 ---------------------------------------------------------
-## 2. Steps to Compile TypeScript File
+## ⚙️ 2. Steps to Compile TypeScript File
 - Create a file with `.ts` extension.
 
     *filename.ts*
