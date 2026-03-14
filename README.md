@@ -13,11 +13,17 @@
 ## 2. Steps to Compile TypeScript File
 - Create a file with `.ts` extension.
 
-    *example.ts*
+    *filename.ts*
 - After compilation, TypeScript will automatically create a JavaScript file:
 
-```
- example.js
-```
+    *filename.js*
+--------------------------------------------------------
+## ▶️ 3. Steps To Run the  generated JavaScript File
+- Use **Node.js** to execute the generated JavaScript file.
+
+```bash
+     node filename.js
+   ```
+
 
 
