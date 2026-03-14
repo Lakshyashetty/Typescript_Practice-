@@ -7,10 +7,12 @@
 
   *npm i -g typescript*
 - Check if TypeScript is installed successfully:
+
     *tsc -v*
 ---------------------------------------------------------
 ## 2. Steps to Compile TypeScript File
 - Create a file with `.ts` extension.
+
     *example.ts*
 
 
